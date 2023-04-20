@@ -1,0 +1,104 @@
+*{
+    margin:0;
+    padding:0;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    width: 450px;
+    height: 40px;
+    padding-left:35px;
+    border-radius:25px;
+
+}
+.tag{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.settings{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.parent{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.btn1{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: 300px;
+    border-radius: 25px;
+    padding-left: 30px;
+}
+.btn2{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: 300px;
+    border-radius: 25px;
+    padding-left: 30px;
+}
+.btn3{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: 300px;
+    border-radius: 25px;
+    padding-left: 30px;
+}
+.I2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.middle{
+    border:1px solid;
+    border-color:lightgrey;
+}
+.box{
+    
+}
+.left{
+    display: block;
+}
+.stay{
+    margin-left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1d9bf0;
+    position: fixed;
+    width: 1700px;
+    bottom: 0;
+    color:white;
+}
+.text1{
+    margin-left: 500px;
+}
+.log{
+    margin-right:150px;
+    
+}
+.btn4{
+    height:30px;
+    border-radius:25px;
+    width: 60px;
+    background-color:#1d9bf0;
+    color: white;
+}
+.btn5{
+    height: 30px;
+    border-radius: 25px;
+    width:60px;
+    background-color:white;
+    color: black;
+}
+.right{
+    
+    top: 0;
+    position: relative;
+}

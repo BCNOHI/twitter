@@ -1,0 +1,38 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+.top{
+    margin-left:70px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.I1{
+    border: 3px solid grey;
+}
+.I1.top{
+    border-bottom:1px solid grey;
+}
+.span{
+    margin-left: 350px;
+    display:flex;
+
+}
+.bim{
+    display: flex;
+    justify-content: space-evenly;
+}
+.low{
+     display: flex;
+     justify-content: space-around;
+     
+}
+.btn{
+    height: 30px;
+    width:100px;
+    border-radius:25px;
+    background-color: lightblue;
+    color: white;
+}
